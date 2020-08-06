@@ -1,0 +1,9 @@
+# datasets  - download them on google drive or AWS s3
+datasets/*
+
+# python and libraries
+__pycache__/
+.ipynb_checkpoints
+
+# OS thingy
+.DS_STORE
