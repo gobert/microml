@@ -1,3 +1,7 @@
+[scripts]
+lab = "pipenv run jupyter lab"
+shell = "pipenv run ipython"
+
 [[source]]
 name = "pypi"
 url = "https://pypi.org/simple"
